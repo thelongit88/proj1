@@ -5,4 +5,4 @@ print("Ok Ok")
 
 print("Ok Google!")
 
-print("Yahoo too.")
+print("Yahoo too2.")
